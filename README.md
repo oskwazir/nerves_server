@@ -1,4 +1,3 @@
 # Servy
 
-**TODO: Add description**
-
+Nerves hosting a Phoenix API server
