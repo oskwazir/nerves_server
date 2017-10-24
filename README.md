@@ -1,3 +1,3 @@
-# Servy
+# nerves_server
 
-Nerves hosting a Phoenix API server
+Phoenix + Nerves = ❤️ 
